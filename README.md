@@ -15,8 +15,13 @@ This is the game that you build from the [Godot Docs](https://docs.godotengine.o
 - [Kenney Bold](https://www.kenney.nl/assets/kenney-fonts)
 - [Dodge The Creeps Assests from Godot Docs](https://github.com/godotengine/godot-docs-project-starters/releases/download/latest-4.x/dodge_the_creeps_2d_assets.zip)
 
+## Addons Used
+
+- [Virtual Joystick by Marco F.](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot)
+
 ## Licenses
 
 - Godot Assets released under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - Kenney Bold released under [CC0 1.0 Deed](https://creativecommons.org/publicdomain/zero/1.0/)
+- Virtual Joystick released under [MIT License](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot/blob/v4/LICENSE)
 - Modified code by Caleb Fultz released under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
